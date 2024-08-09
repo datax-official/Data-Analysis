@@ -6,7 +6,7 @@ Hi, I'm Ahmed Ali! Founder of Data X, where we aim to help you and your business
 
 # Data Analysis Projects Repository
 
-Welcome to the Data Analysis Projects repository! This carefully curated collection features top data analysis projects using a variety of tools and technologies, including Python, SQL, databases, Power BI, Tableau, and MS Excel. Each project in this repository showcases advanced techniques and best practices in data analysis, providing valuable insights and solutions to real-world problems. Whether you're working with large datasets or performing detailed statistical analysis, this repository is designed to help you master the art of data analysis.
+Welcome to the Data Analysis Projects repository! This carefully curated collection features top data analysis projects using a variety of tools and technologies, including Python, SQL, databases, Power BI, Tableau, MS Excel, web scraping, and advanced data analysis techniques. Each project in this repository showcases advanced methods and best practices in data analysis, providing valuable insights and solutions to real-world problems. Whether you're working with large datasets or performing detailed statistical analysis, this repository is designed to help you master the art of data analysis.
 
 ## Explore Projects Across Various Tools and Technologies:
 
@@ -33,6 +33,14 @@ Welcome to the Data Analysis Projects repository! This carefully curated collect
 6. **MS Excel**: Discover the power of Excel for data analysis. From pivot tables to advanced formulas, learn how to manipulate and analyze data efficiently in Excel.
    
    ![MS Excel](https://img.shields.io/badge/-MS%20Excel-217346?logo=microsoft-excel&logoColor=white)
+
+7. **Web Scraping**: Master the techniques of web scraping using tools like BeautifulSoup and Scrapy. Learn how to extract data from websites and transform it into valuable insights.
+   
+   ![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-28A745?logo=web-scraper&logoColor=white)
+
+8. **Advanced Data Analysis**: Explore sophisticated data analysis techniques such as machine learning integration, statistical modeling, and predictive analytics. Projects include end-to-end workflows that demonstrate how to leverage these advanced methods for in-depth analysis.
+   
+   ![Advanced Data Analysis](https://img.shields.io/badge/-Advanced%20Data%20Analysis-000000?logo=data&logoColor=white)
 
 ## Why This Repository?
 
